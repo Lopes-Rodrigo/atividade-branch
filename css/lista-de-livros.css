@@ -1,0 +1,17 @@
+*{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: darkslategray;
+    text-align: center;
+    padding-left: 1000px;
+    padding-top: 400px;
+}
+.livros{
+    background:linear-gradient( rgb(13, 95, 177), rgb(21, 131, 182), rgb(15, 172, 112));
+    width: 500px;
+    height: 300px;
+    padding-top: 90px;
+    
+}
