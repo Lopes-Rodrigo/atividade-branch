@@ -14,7 +14,7 @@ body{
 .filmes{
    flex-direction: column;
    color:aliceblue;
-   background-color: rgb(206, 145, 32);
+   background:linear-gradient(#784,#1220, #588);
    width: 400px;
    height: 300px;
    padding-top:50px ;
