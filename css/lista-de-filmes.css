@@ -1,0 +1,21 @@
+*{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+body{
+    background:#499;
+    text-align: center;
+    padding-top: 400px;
+    padding-left: 1000px;
+}
+
+.filmes{
+   flex-direction: column;
+   color:aliceblue;
+   background:linear-gradient(#784,#1220, #588);
+   width: 400px;
+   height: 300px;
+   padding-top:50px ;
+}
